@@ -1,5 +1,5 @@
 # Samy Mohamed  
-### Autonomous Systems Engineer | MBD| Rust | Control Law  
+### Autonomous Systems Software Engineer | MBD | Rust | Control Law  
 
 ---
 
