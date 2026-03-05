@@ -13,10 +13,11 @@
 ![Autonomous Systems](https://img.shields.io/badge/Autonomy-UAV%20%7C%20USV-critical?style=for-the-badge)
 ---
 
+## Brief Bio
+Software Engineer with 6+ years of experience designing, developing, and testing control algorithms for autonomous vehicles, including ADAS, UAVs, Flight Controls and Missile Guidance Systems. Solid experience in sensor fusion, localization, motion planning and trajectory control. Skilled in MATLAB/Simulink, with strong programming capabilities in C++, Rust, and Python.
+
 ## 🧭 Engineering Focus
-
 I design and implement **intelligent autonomous systems** operating in dynamic, real-world environments.
-
 My core interest lies in building **reliable, safety-critical software architectures** for:
 
 - Automomous Vehicles
@@ -48,6 +49,16 @@ My focus is ensuring:
 Autonomous software must be predictable, validated, and mathematically grounded.
 
 ---
+## Top Projects
+| :gift: Project Name | :book: Brief Description | Language | 
+| ------------ | ----------------- | -------- |
+| [flight-dynamics-control](https://github.com/SamyMohamed1/flight-dynamics-control) | Flight Simulator | ![Rust](https://img.shields.io/badge/Rust-Embedded%20Systems-black?style=for-the-badge&logo=rust) |
+| [rsLQR](https://github.com/bjack205/rsLQR) | Development of real-time Autopilot for UAV | ![MATLAB](https://img.shields.io/badge/MATLAB-Control%20Design-orange?style=for-the-badge&logo=Mathworks) |
+| [Altro.jl](https://github.com/RoboticExplorationLab/ALTRO.jl) | SotA nonlinear conic trajectory optimization solver | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) |
+| [TrajectoryOptimization.jl](https://github.com/RoboticExplorationLab/TrajectoryOptimization.jl) | Formulating trajectory optimization problems | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) |
+| [RobotDynamics.jl](https://github.com/RoboticExplorationLab/RobotDynamics.jl) | Defining controlled dynamics models | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) |
+| [RobotZoo.jl](https://github.com/RoboticExplorationLab/RobotZoo.jl) | A collection of canonical robot models | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) |
+| [Mercury.jl](https://github.com/RoboticExplorationLab/Mercury.jl) | Fast ZMQ-based messaging in Julia | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) |
 
 # 🔬 Flagship Projects
 
@@ -116,17 +127,4 @@ Email: samy.elewa73@gmail.com
 
 ---
 Building intelligent systems that interact safely and reliably with the physical world.
-<!--
-**SamyMohamed1/SamyMohamed1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
