@@ -54,9 +54,6 @@ Autonomous software must be predictable, validated, and mathematically grounded.
 | ------------ | ----------------- | -------- |
 | [flight-dynamics-control](https://github.com/SamyMohamed1/flight-dynamics-control) | Flight dynamics simulator | ![Rust](https://img.shields.io/badge/Rust-Embedded%20Systems-black?style=for-the-badge&logo=rust) |
 | [UAV_flight_control](https://github.com/SamyMohamed1/UAV_flight_control/tree/master) | Development of real-time Autopilot for UAV | ![MATLAB](https://img.shields.io/badge/MATLAB-Control%20Design-orange?style=for-the-badge&logo=Mathworks) |
-| [Altro.jl](https://github.com/RoboticExplorationLab/ALTRO.jl) | SotA nonlinear conic trajectory optimization solver | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) |
-| [TrajectoryOptimization.jl](https://github.com/RoboticExplorationLab/TrajectoryOptimization.jl) | Formulating trajectory optimization problems | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) |
-| [RobotDynamics.jl](https://github.com/RoboticExplorationLab/RobotDynamics.jl) | Defining controlled dynamics models | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) |
 | [PID-controller-with-modifications](https://github.com/SamyMohamed1/PID-controller-with-modifications-in-C) | Practical modifications on the standard PID controller in C | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) |
 
 # 🔬 Flagship Projects
