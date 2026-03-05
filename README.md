@@ -1,20 +1,16 @@
-## Hi there 👋
 # Samy Mohamed  
 ### Autonomous Systems | Embedded Rust | Control Engineering  
 
 ---
 
 ## 🛠 Tech Stack & Tools
-
-![Rust](https://img.shields.io/badge/Rust-Embedded%20Systems-black?style=for-the-badge&logo=rust)
 ![MATLAB](https://img.shields.io/badge/MATLAB-Control%20Design-orange?style=for-the-badge&logo=Mathworks)
 ![Simulink](https://img.shields.io/badge/Simulink-Model%20Based%20Design-yellow?style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-Embedded%20Systems-black?style=for-the-badge&logo=rust)
 ![C++](https://img.shields.io/badge/C++-Embedded-blue?style=for-the-badge&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/Python-Algorithm%20Development-blue?style=for-the-badge&logo=python)
 ![Control Systems](https://img.shields.io/badge/Control-Theory-success?style=for-the-badge)
 ![Autonomous Systems](https://img.shields.io/badge/Autonomy-UAV%20%7C%20USV-critical?style=for-the-badge)
-![Embedded](https://img.shields.io/badge/Embedded-Real--Time-informational?style=for-the-badge)
-
 ---
 
 ## 🧭 Engineering Focus
@@ -23,9 +19,10 @@ I design and implement **intelligent autonomous systems** operating in dynamic, 
 
 My core interest lies in building **reliable, safety-critical software architectures** for:
 
+- Automomous Vehicles
 - Unmanned Aerial Vehicles (UAVs)  
 - Unmanned Surface Vehicles (USVs)  
-- Intelligent robotic platforms  
+- Flight Controls  
 - Guidance, Navigation & Control (GNC) systems  
 
 I work at the intersection of:
@@ -62,7 +59,7 @@ Autonomous software must be predictable, validated, and mathematically grounded.
 - Waypoint mission planning  
 - Stability & disturbance analysis  
 
-Repository: autonomous-uav-architecture
+Repository: flight-dynamics-control
 
 ---
 
@@ -98,19 +95,6 @@ Repository: sensor-fusion-engine
 
 Repository: path-planning-algorithms
 
----
-
-## 🌊 Marine Autonomous Control Systems  
-
-- Nonlinear marine dynamics modeling  
-- Robust control under disturbances  
-- Environmental uncertainty handling  
-- Hydrodynamic stability studies  
-
-Repository: marine-autonomy-control
-
----
-
 # 🔐 Engineering Principles
 
 - Safety first in physical systems  
@@ -123,13 +107,11 @@ Repository: marine-autonomy-control
 
 ## 📫 Connect
 
-LinkedIn: (Add your link)  
-Email: (Professional email)  
+LinkedIn: https://www.linkedin.com/in/samy-mohamed-a1383b16a/   
+Email: samy.elewa73@gmail.com
 
 ---
-
 Building intelligent systems that interact safely and reliably with the physical world.
-
 <!--
 **SamyMohamed1/SamyMohamed1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
