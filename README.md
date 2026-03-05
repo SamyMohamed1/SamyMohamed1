@@ -1,5 +1,5 @@
 # Samy Mohamed  
-### Autonomous Systems | Embedded Rust | Control Engineering  
+### Autonomous Systems Engineer | MBD| Rust | Control Law  
 
 ---
 
@@ -51,7 +51,15 @@ Autonomous software must be predictable, validated, and mathematically grounded.
 
 # 🔬 Flagship Projects
 
-## 🚁 Autonomous UAV Architecture  
+## 🚗 Development of ADAS Applications Using Rust
+
+- Adaptive Cruise Control (ACC) implementation  
+- Automatic Emergency Braking (AEB) logic  
+- Lane Support Systems (LSS) logic 
+- Sensor fusion and state estimation for moving targets   
+- Fail-safe mechanisms and safety validation  
+
+## 🚁 Development of Autonomous UAV
 
 - Layered architecture design  
 - Inner/outer loop control  
@@ -59,9 +67,17 @@ Autonomous software must be predictable, validated, and mathematically grounded.
 - Waypoint mission planning  
 - Stability & disturbance analysis  
 
-Repository: flight-dynamics-control
-
 ---
+
+## 🤖 Development of Autopilot Controller for Drone  
+
+- Design and implementation of autopilot architecture for fixed-wing and multirotor drones  
+- Inner-loop attitude control (roll, pitch, yaw) and outer-loop position/altitude control  
+- Waypoint navigation and trajectory tracking  
+- EKF-based state estimation and sensor fusion (IMU, GPS)  
+- Real-time control loop with deterministic update rate  
+- Fault detection and fail-safe emergency landing logic  
+- Simulation and testing under wind disturbances and sensor noise  
 
 ## 🦀 Embedded Rust Control Systems  
 
@@ -71,29 +87,17 @@ Repository: flight-dynamics-control
 - Memory-safe state handling  
 - Real-time execution considerations  
 
-Repository: embedded-rust-control
-
 ---
 
-## 🛰 Sensor Fusion & Estimation Engine  
+## 🛰 Sensor Fusion & State Estimation for UAV 
 
 - Kalman & Extended Kalman Filters  
 - IMU + GPS fusion  
 - Noise modeling & covariance tuning  
 - Estimation stability analysis  
 
-Repository: sensor-fusion-engine
-
 ---
 
-## 🤖 Path Planning & Autonomous Decision Systems  
-
-- A* and graph-based planners  
-- Dynamic obstacle simulation  
-- Embedded feasibility considerations  
-- Planner-control interaction modeling  
-
-Repository: path-planning-algorithms
 
 # 🔐 Engineering Principles
 
