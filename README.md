@@ -14,7 +14,7 @@
 ---
 
 ## Brief Bio
-Software Engineer with 6+ years of experience designing, developing, and testing control algorithms for autonomous vehicles, including ADAS, UAVs, Flight Controls and Missile Guidance Systems. Solid experience in sensor fusion, localization, motion planning and trajectory control. Skilled in MATLAB/Simulink, with strong programming capabilities in C++, Rust, and Python.
+Software Engineer with 6+ years of experience designing, developing, and testing control algorithms for autonomous vehicles, including self-driving cars, UAVs, Flight Controls and Missile Guidance Systems. Solid experience in sensor fusion, localization, motion planning and trajectory control. Skilled in MATLAB/Simulink, with strong programming capabilities in C++, Rust, and Python.
 
 ## 🧭 Engineering Focus
 I design and implement **intelligent autonomous systems** operating in dynamic, real-world environments.
