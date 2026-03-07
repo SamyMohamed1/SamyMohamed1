@@ -52,7 +52,9 @@ Autonomous software must be predictable, validated, and mathematically grounded.
 ## Top Projects
 | :gift: Project Name | :book: Brief Description | Language | 
 | ------------ | ----------------- | -------- |
+| [rust_common](https://github.com/SamyMohamed1/rust_common.git) | Rust common utils and algorithms | ![Rust](https://img.shields.io/badge/Rust-Embedded%20Systems-black?style=for-the-badge&logo=rust) |
 | [flight-dynamics-control](https://github.com/SamyMohamed1/flight-dynamics-control) | Flight dynamics simulator | ![Rust](https://img.shields.io/badge/Rust-Embedded%20Systems-black?style=for-the-badge&logo=rust) |
+[uav_path_plannerl](https://github.com/SamyMohamed1/uav_path_planner.git) | Path planner algorithms for UAVs | ![Rust](https://img.shields.io/badge/Rust-Embedded%20Systems-black?style=for-the-badge&logo=rust) |
 | [UAV_flight_control](https://github.com/SamyMohamed1/UAV_flight_control/tree/master) | Development of real-time Autopilot for UAV | ![MATLAB](https://img.shields.io/badge/MATLAB-Control%20Design-orange?style=for-the-badge&logo=Mathworks) |
 | [PID-controller-with-modifications](https://github.com/SamyMohamed1/PID-controller-with-modifications-in-C) | Practical modifications on the standard PID controller in C | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) |
 
