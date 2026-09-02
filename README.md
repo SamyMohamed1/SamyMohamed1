@@ -1,5 +1,5 @@
 # Samy Mohamed  
-### Autonomous Systems Software Engineer | MBD | Rust | Control Law  
+### Guidance, Navigation and Control Engineer | Flight Controls | Autonomous Systems  
 
 ---
 
